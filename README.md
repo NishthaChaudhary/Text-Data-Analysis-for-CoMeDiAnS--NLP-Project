@@ -1,4 +1,4 @@
-# Comedian Text Data Analysis- NLP Project
+# Text Data Analysis for CoMeDiAnS- NLP Project
 
 
 ## Install a Few Additional Packages
